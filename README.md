@@ -1,8 +1,32 @@
-- 👋 Hi, I’m @Sh4dwDev
-- 👀 I’m interested in Gaming, Professional E-Sports and IT.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and C#
+# Hi, I’m Sh4dwDev
 
-<!---
-Sh4dwDev/Sh4dwDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an aspiring developer with an interest in gaming, professional e-sports, and IT.
+
+I’m currently learning HTML, CSS, JavaScript, React, and C#, while building my skills step by step through practice and small projects.
+
+## About Me
+
+I enjoy learning how technology works, creating things from scratch, and improving my skills over time. My main interests are gaming, software development, web development, and the competitive e-sports scene.
+
+## Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- React
+- C#
+
+## Interests
+
+- Gaming
+- Professional e-sports
+- IT and technology
+- Web development
+- Game development
+- Software development
+
+## Goals
+
+My goal is to become a better developer by building real projects, learning from mistakes, and improving consistently.
+
+I’m still learning, but I’m serious about getting better.
