@@ -1,4 +1,4 @@
-# Hi, I’m Sh4dwDev
+# Hi, I’m Shadow
 
 I’m an aspiring developer with an interest in gaming, professional e-sports, and IT.
 
