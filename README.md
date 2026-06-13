@@ -1,8 +1,8 @@
 # Hi, I’m Shadow
 
-I’m an aspiring developer with an interest in gaming, professional e-sports, and IT.
+I’m an aspiring developer with an interest in gaming, and IT.
 
-I’m currently learning Python, HTML, CSS, JavaScript, React, and C#, while building my skills step by step through practice and small projects.
+I’m currently learning Python, HTML, CSS, JavaScript, and C#, while building my skills step by step through practice and small projects.
 
 ## About Me
 
