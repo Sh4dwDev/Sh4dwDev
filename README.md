@@ -6,7 +6,7 @@ I’m currently learning Python, HTML, CSS, JavaScript, and C#, while building m
 
 ## About Me
 
-I enjoy learning how technology works, creating things from scratch, and improving my skills over time. My main interests are gaming, software development, web development, and the competitive e-sports scene.
+I enjoy learning how technology works, creating things from scratch, and improving my skills over time. My main interests are gaming, software development and web development.
 
 ## Currently Learning
 
@@ -20,7 +20,6 @@ I enjoy learning how technology works, creating things from scratch, and improvi
 ## Interests
 
 - Gaming
-- Professional e-sports
 - IT and technology
 - Web development
 - Game development
