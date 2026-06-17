@@ -29,4 +29,4 @@ I enjoy learning how technology works, creating things from scratch, and improvi
 
 My goal is to become a better developer by building real projects, learning from mistakes, and improving consistently.
 
-I’m still learning, but I’m serious about getting better.
+I’m still learning.
