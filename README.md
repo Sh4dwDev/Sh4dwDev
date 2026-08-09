@@ -1,16 +1,18 @@
-# Hi, I’m Shadow
+# Hi, I’m Shadow 👋
 
-I’m an aspiring developer with an interest in gaming, and IT.
+I’m an aspiring developer interested in software, web development, game development, and IT.
 
-I’m currently learning Python, HTML, CSS, JavaScript, and C#, while building my skills step by step through practice and small projects.
+I’m currently learning and building with Python, HTML, CSS, JavaScript, React, and C#.
 
 ## About Me
 
-I enjoy learning how technology works, creating things from scratch, and improving my skills over time. My main interests are gaming, software development and web development.
+I enjoy learning how technology works, building things from scratch, solving problems, and improving through hands-on projects.
+
+Most of my learning comes from experimenting, making mistakes, fixing things, and trying again.
 
 ## Currently Learning
 
-- PYTHON
+- Python
 - HTML
 - CSS
 - JavaScript
@@ -19,14 +21,14 @@ I enjoy learning how technology works, creating things from scratch, and improvi
 
 ## Interests
 
-- Gaming
-- IT and technology
+- Software development
 - Web development
 - Game development
-- Software development
+- Gaming
+- IT and technology
 
 ## Goals
 
-My goal is to become a better developer by building real projects, learning from mistakes, and improving consistently.
+My goal is to keep improving as a developer by building real projects, learning new technologies, and getting better at solving problems.
 
-I’m still learning.
+I’m still learning, but I’m always building.
